@@ -13,5 +13,5 @@ end
 
 
 def add_colors
-  
+  RAINBOW_COLORS(1, "orange")
 end
